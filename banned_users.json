@@ -17,5 +17,19 @@
         "reason": "testing banning new1"
       }
     ]
+  },
+  {
+    "userId": "1132246880605188238",
+    "date": "2024-07-20T19:33:02.928Z",
+    "displayName": "r.o.be.r.t",
+    "discordName": "r.o.be.r.t",
+    "avatarHash": "481d19a809394db3accd4a3d643236a4",
+    "servers": [
+      {
+        "serverId": "979112961681539162",
+        "serverName": "Dan's server 1",
+        "reason": "test"
+      }
+    ]
   }
 ]
