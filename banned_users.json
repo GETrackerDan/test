@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "userId": "1194691617689448469",
+    "date": "2024-07-20T19:23:55.676Z",
+    "displayName": "osrsflips",
+    "discordName": "osrsflips",
+    "avatarHash": "a9545ab784f243927a986ab486088171",
+    "servers": [
+      {
+        "serverId": "979112961681539162",
+        "serverName": "Dan's server 1",
+        "reason": "testing banning new1"
+      }
+    ]
+  }
+]
